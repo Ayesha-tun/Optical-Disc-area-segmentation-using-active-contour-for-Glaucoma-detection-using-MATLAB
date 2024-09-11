@@ -1,2 +1,2 @@
-## Optical-Disc-area-segmentation-using-active-contour-for-Glaucoma-detection-using-MATLAB
+### Optical-Disc-area-segmentation-using-active-contour-for-Glaucoma-detection-using-MATLAB
 Glaucoma is the second leading cause of loss of vision in the world. It is a neurodegeneration of the optic nerve is one of the most common causes of blindness. Because revitalization of the degenerated nerve fibers of the optic nerve is impossible early detection of the disease is essential. It can be evaluated by monitoring the optic disc appearance (cup-to-disc ratio or CDR). Glaucoma increases the cup to disc ratio (CDR), affecting the peripheral vision loss. In this project, active contour segmentation technique is implemented to detect the optical disc area of retinal fundus images.
